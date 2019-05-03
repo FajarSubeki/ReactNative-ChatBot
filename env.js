@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "bot-mlonnd",
+    "private_key_id": "43cc07bd189b58ebbed27ad1409439fd20c43787",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQAu/0nSuzESRC\nmKhHlT2yUiQMf/k2eXcMNLcCswkW1cuZw5IFHlyG+9NpUhLQmkx+MdbHLJONxxRh\n+e5Q6PGbI8FoCH/zTdH1OSTUH4NXsabeXaHzFpaWpxAn2eSc21Y5cmr62DWg2xZe\n4SBggufWB99xmgRwumXPW8ozZZgnE58F7v4DGCxOCBrCaeNSlMe5exr917Nk/cNn\nig0hXvOSMoWFLdW7omnVlzy1NCvA5E98J4tUgZkBv6nsRHvjonnGG+Ecq7Iw7psY\nHUBKthvf8FOoHYXIn3WT6jBfiG+jPayFQoreBNdJ22vfHxdDQCPBh2KncnmzE///\nB94mZxuPAgMBAAECggEABn+o/oPwixIkh14cl8vuVwVg8fEHmK+XzA5Tj2aHiKqa\nR04IYFeP/Xmdo8M4KkM/04t8EdHvNDU9ikgULXvxnG60CquFT9UlE5u67lOjt1gq\nBfV360/P2ZoTk6MnlMz3dyj/daHOnx1pKAKxj8JXOuUZEoQE0n7IUn+kJBHu/H1+\ndmi/SSd3xvqMR2VEhjwl0NuOYt2SDk+drZBhXWy2r3pKkVFjUSII68qfNlZtr4m9\nfYiBqqaZQKhN9C0hc4aRcX5gMojI32kPcup2Zxo0Iol2tiWIW0iQLsu0TpRAnOUc\nQlEONMwy0gz3NIx1ZdEXXyGRVdiUrs0Ltccaf2/6sQKBgQD8qkVNMJUodegyQ+ez\nPRHEM5iiv0+mtzP8Ff2v2FCzpbK1Px1Jb5ezADL3zo+xdFGIlI4CmcrqwxKahauG\nxR4FiYhTH0suMoXyorEzEZz+/AZhSc83eO5K/A9lguMpIY1oDr8dMN20Kws+7Dxt\nd5fByzxmrxJ5FAs2P8ZBaNkAPwKBgQDSwclckGbERdxcB4lDFp2Tjrcdu2E8xJW0\napwQin/Tf5nAcZSwPZ6OWGsVNPTek+mbbCHq29BC78ZNaxaI4sAY9OTc9TCT+Sp5\nEzi/0i9GrtN5AzDMXXSX4zMdGLcheqivD4Ls6c35xEFb1VuTEW0YOpExbnoRU9zG\npLXrMSYQsQKBgG4XkxLLNHLozT/5rp++4FrpUHy5d29hLFmPC3bvflqIvJGU6qHw\n6dypHYw0iQ/9avlkIWyorm4Uiaqiy9ZxVV98SdZOMGf0w8CxexyRdCL2laEWlB/L\npakuo1bL7Uciw4avxj5l6HR0vPWx4bKhBZL/h1YGurnfLfN5Xl1p3gPpAoGABCEP\n1ORvXwEPZC4xnkLfK3jsVYTKTup7FGHSVPChuH8TgBW5mApdBOTulCfJdGLpfMYN\nlBBicC1KcVHbyyrGILcLlNio7v0+u8iIoBl6G6RpOEG7vwVFt4QYCEXnsJw6mdNv\n+TxLcM1LioUPmj4JKSRcm99SPOyrsqifd9AqssECgYEAkjKDXFwSK7ZUMzuvnKja\nwItnCHt8AKDzQK1p8915JiMeHMTWaqiV0lzDBBGvXLJZGqKizx1Zt/pcxqbq35uk\nJHZLmr0ZwJh9eZ2tohFJDRt6eWbDc8ZpRFSxhq7DnESJNMFz2xEpONK9rWlAYcFe\ndEWh1Is7LkGJ44Av2AZ1LP8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "dialogflow-kitiax@bot-mlonnd.iam.gserviceaccount.com",
+    "client_id": "107629194776331281700",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-kitiax%40bot-mlonnd.iam.gserviceaccount.com"    
+}
